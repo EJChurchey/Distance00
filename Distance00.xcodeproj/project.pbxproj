@@ -241,6 +241,7 @@
 				72D4B7021AF7B643002E5C12 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
